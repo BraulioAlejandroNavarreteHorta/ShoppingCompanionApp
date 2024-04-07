@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">TDMPA_2P_PR02</string>
+
+    <string-array name="Categoria">
+        <item>Ropa</item>
+        <item>Calzado</item>
+        <item>Accesorios</item>
+    </string-array>
+
+    <string-array name="Ropa">
+        <item>Playera</item>
+        <item>Pantalón</item>
+        <item>Chamarra</item>
+    </string-array>
+
+    <string-array name="Calzado">
+        <item>Jordan 1</item>
+        <item>Adidas Forum</item>
+        <item>Nike Dunk</item>
+    </string-array>
+
+    <string-array name="Accesroios">
+        <item>Reloj</item>
+        <item>Pulsera</item>
+        <item>Gorra</item>
+    </string-array>
+</resources>
